@@ -6,3 +6,4 @@ sudo apt-get install git-core gnupg flex bison gperf build-essential zip curl zl
 git clone https://github.com/phhusson/treble_experimentations.git
 
 sudo apt-get install repo -y
+
