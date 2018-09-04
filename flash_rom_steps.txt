@@ -1,0 +1,19 @@
+1.进recovery 清数据
+
+adb reboot recovery
+
+2.进入bootloader 
+	fastboot erase system
+	fastboot --u flash system name_of_system.img
+	fastboot reboot
+
+
+
+
+
+
+
+
+a0:99:9b:1c:a1:75
+
+fastboot flash vendor vendor.img
